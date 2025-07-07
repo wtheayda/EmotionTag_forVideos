@@ -1,0 +1,9 @@
+opencv-python
+python-docx
+moviepy
+pydub
+SpeechRecognition
+whisper
+nltk
+wordcloud
+matplotlib
